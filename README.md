@@ -4,3 +4,4 @@
 - Implemented decreaseIndex & increaseIndex function for navigation between tabs.
 - Made Tabs disabled (only way of navigation are next/previous button).
 - Use of "useEffect" in all forms for updating global data.
+- Error handling in Interview Settings form.
